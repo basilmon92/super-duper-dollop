@@ -1,0 +1,3 @@
+markdown: redcarpet
+baseurl: /super-duper-dollop
+exclude: ['README.md','LICENSE']
